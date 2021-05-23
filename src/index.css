@@ -1,3 +1,5 @@
+
+
 html {
   min-height: 100%;
 }
@@ -57,6 +59,7 @@ input[type="time"] {
   background: white;
   border-bottom: 1px solid #e1e1e1;
   color: black;
+  margin-bottom: 1rem;
 }
 
 .cita p {
@@ -77,7 +80,7 @@ input[type="time"] {
 }
 .button.eliminar,
 .button.eliminar:hover {
-  background-color: #c10059;
+  background-color: #000;
   color: white;
   margin-top: 2rem;
 }
